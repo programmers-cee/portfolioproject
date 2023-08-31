@@ -1,0 +1,50 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-image: url(pp.jpg);
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    display: block;
+
+}
+
+body h1 {
+    margin: 0px;
+    padding: 5px;
+    background-color: rgb(12, 180, 40);
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    display: flex;
+}
+
+body h2 {
+    margin: 0px;
+    padding: 8px;
+    background-color: rgb(180, 51, 12);
+    align-items: center;
+    justify-content: left;
+    text-decoration: none;
+    display: flex;
+}
+
+body h3 {
+    margin: 0px;
+    padding: 8px;
+    background-color: rgb(12, 180, 166);
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    display: flex;
+}
+
+body p {
+    margin: 0px;
+    padding: 8px;
+    background-color: rgba(197, 172, 28, 0.466);
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    display: flex;
+}
